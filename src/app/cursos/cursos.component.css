@@ -1,0 +1,23 @@
+div {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    border: 1px solid black;
+    background-color: #DDD;
+    margin-top: 2rem;
+}
+
+dl {
+    position: left
+}
+
+dt {
+   position: left;
+   font-size: 22px
+}
+
+dd {
+   position: left;
+   font-size: 15px
+
+}
